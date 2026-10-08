@@ -11,7 +11,7 @@
   * Carlos Enrique García Unda (23160911)
   * Uriel Eduardo Guzmán Ramírez
 * **Enlace al Repositorio:** [https://github.com/CarlosEnriqueGarciaUnda/Actividad5](https://github.com/CarlosEnriqueGarciaUnda/Actividad5Equipo)
-* **Enlace a GitHub Pages:** [https://CarlosEnriqueGarciaUnda.github.io/Actividad5/login.html](https://CarlosEnriqueGarciaUnda.github.io/Actividad5/login.html)
+* **Enlace a GitHub Pages:** [https://CarlosEnriqueGarciaUnda.github.io/Actividad5/login.html](https://carlosenriquegarciaunda.github.io/Actividad5Equipo/login.html)
 
 ---
 
