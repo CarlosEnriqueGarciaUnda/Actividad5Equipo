@@ -10,7 +10,7 @@
 * **Integrantes del Equipo:**
   * Carlos Enrique García Unda (23160911)
   * Uriel Eduardo Guzmán Ramírez
-* **Enlace al Repositorio:** [https://github.com/CarlosEnriqueGarciaUnda/Actividad5](https://github.com/CarlosEnriqueGarciaUnda/Actividad5)
+* **Enlace al Repositorio:** [https://github.com/CarlosEnriqueGarciaUnda/Actividad5](https://github.com/CarlosEnriqueGarciaUnda/Actividad5Equipo)
 * **Enlace a GitHub Pages:** [https://CarlosEnriqueGarciaUnda.github.io/Actividad5/login.html](https://CarlosEnriqueGarciaUnda.github.io/Actividad5/login.html)
 
 ---
